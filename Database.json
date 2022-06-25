@@ -1,0 +1,13 @@
+{
+    "name": "Subscriptions",
+    "tables": [
+        {
+            "name": "Subscribers",
+            "columns": [
+                {
+                    "name": "UserGuid"
+                }
+            ]
+        }
+    ]
+}
